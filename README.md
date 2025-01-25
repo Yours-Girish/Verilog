@@ -1,2 +1,1 @@
-# Verilog
-something I explored during my best phase of learning......
+
